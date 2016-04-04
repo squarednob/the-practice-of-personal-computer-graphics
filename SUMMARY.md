@@ -8,5 +8,5 @@
 * [Chapter3. CGI for Play](body/chapter_03/README.md)
 * [Chapter4. CGI for Politics and Society](body/chapter_04/README.md)
 * [Chapter5. CGI for Thinking](body/chapter_05/README.md)
-* Chapter6. Experimental CGI
+* [Chapter6. Experimental CGI](body/chapter_06/README.md)
 
