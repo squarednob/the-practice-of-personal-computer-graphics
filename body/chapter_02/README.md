@@ -1,4 +1,6 @@
 
 # Todo
 
-Import blog.
+Remaking personal memory.
+Understanding other person's view.
+
