@@ -1,4 +1,4 @@
 
 # Todo
 
-Import shit blog.
+Import blog.
