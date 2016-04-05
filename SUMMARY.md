@@ -4,7 +4,7 @@
 * [Chapter1. What is Personal CGI?](body/chapter_01/README.md)
    * [Professional vs Personal](body/chapter_01/01_professional_vs_personal.md)
 * [Chapter2. CGI for Commucation](body/chapter_02/README.md)
-   * [Remaking Personal Experience by First Person View](body/chapter_02/02_remaking_personal_experience_by_first_person_view.md)
+   * [Remaking Personal Experience by First Person View](body/chapter_02/02remaking_personal_experience_by_first_person.md/02remaking_personal_experience_by_first_person_vie.md)
    * [Why Use CGI for Communication?](body/chapter_02/01_why_use_cgi_for_communication.md/why_use_cgi_for_communication.md)
 * [Chapter3. CGI for Play](body/chapter_03/README.md)
 * [Chapter4. CGI for Politics and Society](body/chapter_04/README.md)
