@@ -92,7 +92,9 @@ You can make background texture by taking picture of your neighborhood.
 
 #### Items:
 
-If you need an item for a scene, you can either make the object on your own or reuse object which other people already made. [Blendeswap](http://www.blendswap.com/blends) is a website to share blend file. Reusing object from the website ,along with creative commons license, is easier than making object from scratch.
+If you need an item for a scene, you can either make the object on your own or reuse object which other people already made.
+
+[Blendeswap](http://www.blendswap.com/blends) is a website to share blend file. Reusing object from the website ,along with creative commons license, is easier than making object from scratch.
 
 * * *
 
@@ -100,8 +102,14 @@ If you need an item for a scene, you can either make the object on your own or r
 
 ### 1:
 
-_The original blog post is [Blender CGI: Everyday Life in a Molecular Biology Lab - Gappy Facets](http://gappyfacets.com/2015/08/12/blender-cgi-everyday-life-in-a-molecular-biology-lab/)_. _Hand object is [Simple Hand Rig | Blend Swap](http://www.blendswap.com/blends/view/75824) by UP3D._ _Micropipette object is [Micropipette for Biotechnology | Blend Swap](http://www.blendswap.com/blends/view/80617) by me._ _Petri Dish object is [Petri Dish with Bacteria Colony | Blend Swap](http://www.blendswap.com/blends/view/78447) by me._ _Microtube object is [Microtube of Biotechnology Lab | Blend Swap](http://www.blendswap.com/blends/view/78146) by me._
+* The original blog post is [Blender CGI: Everyday Life in a Molecular Biology Lab - Gappy Facets](http://gappyfacets.com/2015/08/12/blender-cgi-everyday-life-in-a-molecular-biology-lab/)_.
+* Hand object is [Simple Hand Rig | Blend Swap](http://www.blendswap.com/blends/view/75824) by UP3D.
+* Micropipette object is [Micropipette for Biotechnology | Blend Swap](http://www.blendswap.com/blends/view/80617) by me.
+* Petri Dish object is [Petri Dish with Bacteria Colony | Blend Swap](http://www.blendswap.com/blends/view/78447) by me.
+* Microtube object is [Microtube of Biotechnology Lab | Blend Swap](http://www.blendswap.com/blends/view/78146) by me._
 
 ### 2:
 
-_The original blog post is [Mass surveillance provides us with a sense of unity? - Gappy Facets](http://gappyfacets.com/2015/03/29/mass-surveillance-provides-us-with-a-sense-of-unity/)_. _Hand object is [Simple Hand Rig | Blend Swap](http://www.blendswap.com/blends/view/75824) by UP3D._ _iPhone object is [iPhone 5S - White | Blend Swap](http://www.blendswap.com/blends/view/70880) by sorrisos._ _The image above is fan-art._
+* The original blog post is [Mass surveillance provides us with a sense of unity? - Gappy Facets](http://gappyfacets.com/2015/03/29/mass-surveillance-provides-us-with-a-sense-of-unity/)_.
+* Hand object is [Simple Hand Rig | Blend Swap](http://www.blendswap.com/blends/view/75824) by UP3D._ _iPhone object is [iPhone 5S - White | Blend Swap](http://www.blendswap.com/blends/view/70880) by sorrisos.
+* The image above is fan-art._
