@@ -11,4 +11,5 @@
 * [Chapter4. CGI for Politics and Society](body/chapter_04/README.md)
 * [Chapter5. CGI for Thinking](body/chapter_05/README.md)
 * [Chapter6. Experimental CGI](body/chapter_06/README.md)
+   * Metafiction Narrative with CGI
 
