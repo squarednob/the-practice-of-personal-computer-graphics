@@ -12,4 +12,5 @@
 * [Chapter5. CGI for Thinking](body/chapter_05/README.md)
 * [Chapter6. Experimental CGI](body/chapter_06/README.md)
    * [Metafiction Narrative with CGI](body/chapter_06/metafiction_narrative_with_cgi.md)
+   * What is Experimental Computer Graphics
 
