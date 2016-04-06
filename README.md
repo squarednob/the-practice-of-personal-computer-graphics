@@ -1,4 +1,4 @@
-My Awesome Book
+About "Personal Computer Graphics"
 =======
 The project seeks new ways of CGI expression in the era when people can make realistic CGI for free and for personal, by an open source software such as Blender.
 
