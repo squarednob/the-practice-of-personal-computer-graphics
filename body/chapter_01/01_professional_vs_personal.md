@@ -8,7 +8,7 @@ You would disdain how people use techniques to do stupid things. But that's why 
 
 Turning to computer graphics, Blender is a free, open source software for CG. Like other expression means, Blender can make almost everything, for free. Everyone can embark on this.  
 
-## Personal is better than professional:
+## Personal is sometimes better than professional:
 
 However, unfortunately Blender communities seem not to be enjoy such a great situation. Even with entirely free software, many Blender guys are highly affected by entertainment industries and art. They are obsessed with how to close to professional movie, animation, art looking. Professional is not always nice.
 
