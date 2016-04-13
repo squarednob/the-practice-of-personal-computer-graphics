@@ -42,11 +42,11 @@ The image show what I see in U.S. map. It was very easy to make. The image is ju
 
 [![math_lorenz_owl1_1](/src/chapter_02/math_lorenz_owl1_1.jpg)](http://gappyfacets.com/2016/03/30/idea-lorenz-attractor-owl/math_lorenz_owl1_1/) when I saw Lorenz attractor in a book, I felt being watched by something not a human. I found that it is like eyes of owl.
 
-So I put the Lorenz attractor in the face of owl. The resulted image is what I saw in the book. [3]  
+So I put the Lorenz attractor in the face of owl. The resulted image is what I saw in the book. [3]
 
+### Fried Chicken from Smoke Simulation:
 
-
----
+![](src/chapter_02/smoke_chicken1_afga-advantix100_-0.3_1.5.jpg)
 
 
 
