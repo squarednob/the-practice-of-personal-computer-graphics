@@ -45,9 +45,7 @@ The image show what I see in U.S. map. It was very easy to make. The image is ju
 So I put the Lorenz attractor in the face of owl. The resulted image is what I saw in the book. [3]
 
 ### Fried Chicken from Smoke Simulation:
-
-![](src/chapter_02/smoke_chicken1_afga-advantix100_-0.3_1.5.jpg)
-
+![](../../src/chapter_02/smoke_chicken1_afga-advantix100_-0.3_1.5.jpg)
 
 
 ## Annotations:
