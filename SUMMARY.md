@@ -8,6 +8,7 @@
    * [Remaking Personal Experience by First Person View](body/chapter_02/remaking_personal_experience_by_first_person_view.md)
    * [Remaking Personal Illusion](body/chapter_02/remaking_personal_illusion.md)
 * [Chapter3. CGI for Play](body/chapter_03/README.md)
+   * Reconstructing existing prints
 * [Chapter4. CGI for Politics and Society](body/chapter_04/README.md)
 * [Chapter5. CGI for Thinking](body/chapter_05/README.md)
 * [Chapter6. Experimental CGI](body/chapter_06/README.md)
