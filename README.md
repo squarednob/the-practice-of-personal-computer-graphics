@@ -4,3 +4,6 @@ The project seeks new ways of CGI expression in the era when people can make rea
 
 So it must be different from commercial projects like Pixar animation or hollywood movie or promotion videos of companies, using expensive CGI software like Maya.
 These commercial products are restricted by needs for raising funds, making a profit from mass market, and team management.
+
+* The blog: http://gappyfacets.com/
+* The blog post series: http://gappyfacets.com/series/personal_computer_graphics/ 
