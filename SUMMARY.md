@@ -9,6 +9,7 @@
    * [Remaking Personal Illusion](body/chapter_02/remaking_personal_illusion.md)
 * [Chapter3. CGI for Fun](body/chapter_03/README.md)
    * [Reconstructing existing prints](body/chapter_03/reconstructing_existing_prints.md)
+   * Using Pictures Around us With Bump/Displacement
 * [Chapter4. CGI for Politics and Society](body/chapter_04/README.md)
 * [Chapter5. CGI for Thinking](body/chapter_05/README.md)
 * [Chapter6. Experimental CGI](body/chapter_06/README.md)
