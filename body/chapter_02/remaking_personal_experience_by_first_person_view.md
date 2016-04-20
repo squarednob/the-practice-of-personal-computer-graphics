@@ -59,7 +59,9 @@ This usage suits for those who are visual learner because they tend to receive a
 
 ### Remaking personal experience:
 
-[![clean-bench1_pipette-tube2_incline1_2](/src/chapter_02/clean-bench1_pipette-tube2_incline1_2.jpg)](http://gappyfacets.com/2015/08/12/blender-cgi-everyday-life-in-a-molecular-biology-lab/clean-bench1_pipette-tube2_incline1_2/) [![clean-bench1_pipette-tube3_into1_2](/src/chapter_02/clean-bench1_pipette-tube3_into1_2.jpg)](http://gappyfacets.com/2015/08/12/blender-cgi-everyday-life-in-a-molecular-biology-lab/clean-bench1_pipette-tube3_into1_2/) [![clean-bench1_pipette-tube3_into1_4](/src/chapter_02/clean-bench1_pipette-tube3_into1_4.jpg)](http://gappyfacets.com/2015/08/12/blender-cgi-everyday-life-in-a-molecular-biology-lab/clean-bench1_pipette-tube3_into1_4/) The CGIs above are remake of my daily experience in biosafety cabinets while I was preparing culture of Escherichia coli which contains plasmid in the cell.
+![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/clean-bench1_pipette-tube2_incline1_2.jpg)
+![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/clean-bench1_pipette-tube3_into1_2.jpg)
+The CGIs above are remake of my daily experience in biosafety cabinets while I was preparing culture of Escherichia coli which contains plasmid in the cell.
 
 The images are not artwork, and not a perfect remake of my experience. The CGI itself is my talking through reconstructed reality along with my mind. It represents what I focus on while I am working there.
 
