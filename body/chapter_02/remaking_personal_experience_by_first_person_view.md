@@ -61,6 +61,8 @@ This usage suits for those who are visual learner because they tend to receive a
 
 ![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/clean-bench1_pipette-tube2_incline1_2.jpg)
 ![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/clean-bench1_pipette-tube3_into1_2.jpg)
+![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/clean-bench1_pipette-tube3_into1_4.jpg)
+
 The CGIs above are remake of my daily experience in biosafety cabinets while I was preparing culture of Escherichia coli which contains plasmid in the cell.
 
 The images are not artwork, and not a perfect remake of my experience. The CGI itself is my talking through reconstructed reality along with my mind. It represents what I focus on while I am working there.
@@ -71,7 +73,9 @@ Also, hopefully it gives you feeling about the loneliness and tediousness durin
 
 ### Remaking moment when an idea came to mind:
 
-[![iphone_NSA1](/src/chapter_02/iphone_NSA1.jpg)](http://gappyfacets.com/2015/03/29/mass-surveillance-provides-us-with-a-sense-of-unity/iphone_nsa1/) This is remake of view when an idea came to my mind.
+![](../../src/chapter_02/remaking_personal_experience_by_first_person_view/iphone_NSA1.jpg)
+
+This is remake of view when an idea came to my mind.
 
 The idea is that mass surveillance makes sense of unity among citizens as victim and it could be a kind of social capital between social classes. The idea came when I saw flash hallucination of icon NSA in the smartphone. I thought it's like a social communication app about NSA.
 
