@@ -1,8 +1,13 @@
 ## Computer graphics is now a commodity of expression:
 
-It's strange that people enjoy watching video, laughing at joke gifs, and talking in front of computer. The device was originally invented as calculator, not for versatile entertainment machine. But it's a triumph for computer. With the devices, we can express almost everything.
+It's strange that people enjoy watching video, laughing at joke gifs, and talking in front of computer.
 
-There are many "universal expression means", if I call it, for example, drawing, novel, comic, movie, and talking. Such tools can give people what's in your mind. You can find what people do with them. Some people use it as a serious purpose for example art, describing social issue, or how life is beautiful. Other people use it just for entertainment, joking, even porno.
+The device was originally invented as calculator, not for versatile entertainment machine. But it's a triumph for computer. With the devices, we can express almost everything.
+
+There are many "universal expression means", if I call it, for example, drawing, novel, comic, movie, and talking. Such tools can give people what's in your mind. You can find what people do with them.
+
+
+Some people use it as a serious purpose for example art, describing social issue, or how life is beautiful. Other people use it just for entertainment, joking, even porno.
 
 You would disdain how people use techniques to do stupid things. But that's why they are universal expression means.
 
@@ -10,7 +15,9 @@ Turning to computer graphics, Blender is a free, open source software for CG. Li
 
 ## Personal is sometimes better than professional:
 
-However, unfortunately Blender communities seem not to be enjoy such a great situation. Even with entirely free software, many Blender guys are highly affected by entertainment industries and art. They are obsessed with how to close to professional movie, animation, art looking. Professional is not always nice.
+However, unfortunately Blender communities seem not to be enjoy such a great situation.
+
+Even with entirely free software, many Blender guys are highly affected by entertainment industries and art. They are obsessed with how to close to professional movie, animation, art looking. Professional is not always nice.
 
 Since CG has long been high-technology art with huge budget, industries has been forced to earn money to at least avoid deficit. So they make products for mass market which has limited interests. It means that expression by CG has long been bend by industry-side.   
 
@@ -18,7 +25,8 @@ Again, I want to say that computer graphics can make almost everything for free.
 
 For instance, About your troublesome neighbor, how your gone grandma sit in armchair everyday in your house, which your part is itching now, your last night's dream, ISIS issue, scientific thought, fraudulent trick by crooks, why democracy is always failed, vulgar jokes.
 
-I posted realistic shit. But I can make series "See my health every day" in CGI. [![fracture3_shit3_link1_kitchen2_2](/src/chapter_01/fracture3_shit3_link1_kitchen2_2.jpg)](http://gappyfacets.com/2015/04/19/blender-how-to-make-realistic-excrement-of-any-objects-seriously/fracture3_shit3_link1_kitchen2_2/) 
+I posted realistic shit. But I can make series "See my health every day" in CGI.
+![](../../src/chapter_01/professional_vs_personal/fracture3_shit3_link1_kitchen2_2.jpg)
 
 Aside from shit, I think almost similar topics are existing in other means of expression. If people making the topics in CG, computer graphics is then a true commodity tool.  
 
