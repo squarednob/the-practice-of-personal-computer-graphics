@@ -15,4 +15,5 @@
 * [Chapter6. Experimental CGI](body/chapter_06/README.md)
    * [What is Experimental Computer Graphics](body/chapter_06/what_is_experimental_computer_graphics.md)
    * [Mockumentary and Metafiction Narrative with CGI](body/chapter_06/mockumentary_and_metafiction_narrative_with_cgi.md)
+   * trompe l'oeil
 
