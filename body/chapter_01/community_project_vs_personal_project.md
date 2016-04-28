@@ -1,2 +1,2 @@
-# Team vs Personal
+# Community Project vs Personal Project
 
